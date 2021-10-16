@@ -43,8 +43,8 @@ Preloader.prototype = {
     //Fonts
     this.load.bitmapFont(
       "anuswiper_font",
-      "./assets/fonts/bitmap/superswiper.png",
-      "./assets/fonts/bitmap/superswiper.fnt"
+      "./assets/fonts/bitmap/Superswiper.png",
+      "./assets/fonts/bitmap/Superswiper.fnt"
     );
 
     //feedbackfonts
