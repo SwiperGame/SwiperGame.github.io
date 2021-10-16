@@ -8,12 +8,12 @@ Boot.prototype = {
     //Preload the images for the loading screen
     this.game.load.spritesheet(
       "preloaderbar",
-      "assets/images/Foocy_129_273_16.png",
+      "/assets/images/Foocy_129_273_16.png",
       129,
       273,
       16
     );
-    this.game.load.image("titleimage", "assets/images/BLANK_CANVAS.png");
+    this.game.load.image("titleimage", "/assets/images/BLANK_CANVAS.png");
   },
 
   create: function () {
